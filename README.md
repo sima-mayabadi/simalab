@@ -13,7 +13,7 @@ Welcome to the official repository for **SimaLab**! Here you will find source co
 ## 📂 Active Courses & Modules
 
 ### 🔹 [Graph Neural Networks (GNN) Course](./SimaLab-GNN-Course)
-Graph Neural Networks (GNN) with PyTorch Geometric.
+
 Comprehensive hands-on series on Graph Neural Networks with **PyTorch Geometric (PyG)**.
 
 | # | Topic | Notebook | Dataset | Video |
